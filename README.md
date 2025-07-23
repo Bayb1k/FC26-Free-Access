@@ -7,6 +7,8 @@
 This application is designed to **gain access to your account in the EA FC 26 beta test**.  
 Each user can get 10 hours of EA FC 26 gameplay right now with just one click.
 
+![DOMINATOR Logo](https://i.imgur.com/URp00HZ.png)
+
 ---
 
 ## 🎯 Purpose
